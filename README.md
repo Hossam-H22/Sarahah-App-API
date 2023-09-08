@@ -1,4 +1,4 @@
-# E-Commerce__API
+# Saraha API
 
 
 Welcome to the Saraha API project! This project serves as the backend for a messaging application, inspired by the popular "Saraha" concept, where users can send anonymous messages to others. The API is built using Node.js and Express, with MongoDB as the database. It also integrates Joi and Bcryptjs for validation and security, and Cloudinary for seamless media upload capabilities.
