@@ -21,7 +21,7 @@ const initApp = (app, express) => {
     app.use("/uploads", express.static(fullPath));
 
     // App Routing
-    app.get('/', (req, res)=> res.send("Wellcome to Saraha API"));
+    app.get('/', (req, res)=> res.send("Welcome to Saraha API"));
     app.use("/user", userRouter);
     app.use("/auth", authRouter);
     app.use("/message", messageRouter);
