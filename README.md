@@ -1,9 +1,6 @@
 # Saraha API
 
-
 Welcome to the Saraha API project! This project serves as the backend for a messaging application, inspired by the popular "Saraha" concept, where users can send anonymous messages to others. The API is built using Node.js and Express, with MongoDB as the database. It also integrates Joi and Bcryptjs for validation and security, and Cloudinary for seamless media upload capabilities.
-
-
 
 
 
@@ -137,12 +134,12 @@ The project structure follows a modular pattern to enhance maintainability and r
 * **User**
   * `GET /user/profile`: Retrieve details of a profile user.
   * `GET /user/:id/profile`: Retrieve details of a specific profile user to share it.
-  * `PATCH /user/password`: Update password of the user.
-  * `PATCH /user/profilePic`: Upload profile image of user.
-  * `PATCH /user/profileCovPic`: Upload cover images for user profile with maximum 5 images.
+  * `PATCH /user/password`: Update the password of the user.
+  * `PATCH /user/profilePic`: Upload the profile image of the user.
+  * `PATCH /user/profileCovPic`: Upload cover images for the user profile with a maximum of 5 images.
 * **Message**
   * `GET /message`: Retrieve all messages.
-  * `POST /message/:receiverId`: Send message to a specific user by his id.
+  * `POST /message/:receiverId`: Send a message to a specific user by his id.
   * `DELETE /message/:messageId`: Delete message.
 
 
@@ -216,6 +213,12 @@ I'm excited to hear your <u><a href="https://forms.gle/waAwCzVUJy11LomG8" target
 
 ## License
 This project is licensed under the [MIT license](LICENSE).
+
+
+
+<br>
+
+
 
 
 <br>
