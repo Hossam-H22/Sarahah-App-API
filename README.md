@@ -1,6 +1,6 @@
-# Saraha API
+# Sarahah API
 
-Welcome to the Saraha API project! This project serves as the backend for a messaging application, inspired by the popular "Saraha" concept, where users can send anonymous messages to others. The API is built using Node.js and Express, with MongoDB as the database. It also integrates Joi and Bcryptjs for validation and security, and Cloudinary for seamless media upload capabilities.
+Welcome to the Sarahah API project! This project serves as the backend for a messaging application, inspired by the popular "Sarahah" concept, where users can send anonymous messages to others. The API is built using Node.js and Express, with MongoDB as the database. It also integrates Joi and Bcryptjs for validation and security, and Cloudinary for seamless media upload capabilities.
 
 
 
@@ -32,7 +32,7 @@ Welcome to the Saraha API project! This project serves as the backend for a mess
 <a id="Introduction"></a>
 
 ## Introduction
-The Saraha API project provides a robust backend foundation for creating an anonymous messaging application.
+The Sarahah API project provides a robust backend foundation for creating an anonymous messaging application.
 
 
 <br>
@@ -81,12 +81,12 @@ To get started with the Fresh Cart frontend project, follow these steps:
 
 1. <strong>Clone the Repository:</strong> Clone this repository to your local machine using the following command:
 ```bash
-  git clone https://github.com/Dragon-H22/Saraha-App-API.git
+  git clone https://github.com/Dragon-H22/Sarahah-App-API.git
 ```
 
 2. <strong>Install Dependencies:</strong> Navigate to the project directory and install the required dependencies using your preferred package manager:
 ```bash
-  cd Saraha-App-API
+  cd Sarahah-App-API
   npm install
 ```
 
